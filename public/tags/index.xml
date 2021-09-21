@@ -11,11 +11,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 17 Sep 2021 13:42:24 +0200</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>reisebericht</title>
-      <link>https://examplesite.com/tags/reisebericht/</link>
+      <title>Gesichter</title>
+      <link>https://examplesite.com/tags/gesichter/</link>
       <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
       
-      <guid>https://examplesite.com/tags/reisebericht/</guid>
+      <guid>https://examplesite.com/tags/gesichter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reisebilder</title>
+      <link>https://examplesite.com/tags/reisebilder/</link>
+      <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
+      
+      <guid>https://examplesite.com/tags/reisebilder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veröffentlicht</title>
+      <link>https://examplesite.com/tags/ver%C3%B6ffentlicht/</link>
+      <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
+      
+      <guid>https://examplesite.com/tags/ver%C3%B6ffentlicht/</guid>
       <description></description>
     </item>
     

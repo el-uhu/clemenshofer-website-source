@@ -1,9 +1,9 @@
 ---
-title: "Reisebericht 1"
+title: "Reisebild 1"
 date: 2021-09-17T13:42:24+02:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
-tags: ["reisebericht"]
+tags: ["Reisebilder"]
 author: "Clemens Hofer"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -21,6 +21,7 @@ searchHidden: true
 ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
+ShowPostTags: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
