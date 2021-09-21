@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://examplesite.com/sitemap.xml
+Sitemap: https://el-uhu.github.io/clemenshofer-website-source/sitemap.xml

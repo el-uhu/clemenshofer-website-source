@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Clemens Hofer</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://el-uhu.github.io/clemenshofer-website-source/tags/</link>
     <description>Recent content in Tags on Clemens Hofer</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://el-uhu.github.io/clemenshofer-website-source/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://el-uhu.github.io/clemenshofer-website-source/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 13:42:24 +0200</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 13:42:24 +0200</lastBuildDate><atom:link href="https://el-uhu.github.io/clemenshofer-website-source/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gesichter</title>
-      <link>https://examplesite.com/tags/gesichter/</link>
+      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/gesichter/</link>
       <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
       
-      <guid>https://examplesite.com/tags/gesichter/</guid>
+      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/gesichter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reisebilder</title>
-      <link>https://examplesite.com/tags/reisebilder/</link>
+      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/reisebilder/</link>
       <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
       
-      <guid>https://examplesite.com/tags/reisebilder/</guid>
+      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/reisebilder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veröffentlicht</title>
-      <link>https://examplesite.com/tags/ver%C3%B6ffentlicht/</link>
+      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/ver%C3%B6ffentlicht/</link>
       <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
       
-      <guid>https://examplesite.com/tags/ver%C3%B6ffentlicht/</guid>
+      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/ver%C3%B6ffentlicht/</guid>
       <description></description>
     </item>
     
