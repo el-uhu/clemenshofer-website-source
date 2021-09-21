@@ -2,6 +2,7 @@ baseURL: "https://examplesite.com/"
 title: Clemens Hofer
 paginate: 4
 theme: PaperMod
+publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
