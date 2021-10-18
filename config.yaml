@@ -64,8 +64,6 @@ params:
         imageHeight: 120
         imageTitle: my image
         buttons:
-            - name: Veröffentlicht
-              url: tags/veröffentlicht
             - name: Reisebilder
               url: tags/reisebilder
             - name: Gesichter
@@ -118,9 +116,6 @@ menu:
           name: Über Clemens
           url: /about
           weight: 10
-        - identifier: Veröffentlicht
-          name: Veröffentlicht
-          url: /tags/veröffentlicht
           weight: 20
         - identifier: Reisebilder
           name: Reisebilder
@@ -130,10 +125,6 @@ menu:
           name: Gesichter
           url: /tags/gesichter
           weight: 40
-        - identifier: Archiv
-          name: Archiv
-          url: /archiv
-          weight: 50
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
