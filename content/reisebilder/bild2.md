@@ -1,5 +1,5 @@
 ---
-title: "Bild 2 (Donaudelta)"
+title: "Bild 2"
 date: 
 weight: 2
 # aliases: ["/first"]

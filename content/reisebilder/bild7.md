@@ -1,5 +1,5 @@
 ---
-title: "Bild 7 (Zug Rumänien)"
+title: "Bild 7"
 date: 
 weight: 7
 # aliases: ["/first"]

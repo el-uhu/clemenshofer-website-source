@@ -1,5 +1,5 @@
 ---
-title: "Bild 6 (vama vece)"
+title: "Bild 6"
 date: 
 weight: 6
 # aliases: ["/first"]

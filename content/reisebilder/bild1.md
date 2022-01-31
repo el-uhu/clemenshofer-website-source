@@ -1,5 +1,5 @@
 ---
-title: "Bild 1 (Marokko)"
+title: "Bild 1"
 date: 
 weight: 1
 # aliases: ["/first"]
