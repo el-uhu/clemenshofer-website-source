@@ -1,0 +1,44 @@
+<div class="profile" style="flex-direction: row; flex-wrap:wrap">
+    {{- with .Site.Params.profileMode }}
+        {{- with .buttons }}
+            {{- range . }}
+            {{/*  <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name | title }}">
+                <span class="button-inner">{{ .name | title }}</span>
+            </a>  */}}
+            <article class="post-entry" style="margin:20px">
+                <img src="{{ .imageUrl }}" alt=""
+            height="{{ .imageHeight | default 250 }}" width="{{ .imageWidth | default 250 }}" style="border-radius: 0%;" />
+                <header class="entry-header">
+                    <h4>{{ .name | title }}</h4>
+                </header>
+                <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ trim .url " " }}"></a>
+            </article>
+            {{- end }}
+
+        {{- end }}
+
+    {{/*  <article class="post-entry">
+        {{- $isHidden := "false" }}
+        {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+        <header class="entry-header">
+          <h2>
+            {{- .Title }}
+            {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+          </h2>
+        </header>
+        {{- if (ne (.Param "hideSummary") true) }}
+        <section class="entry-content">
+          <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+        </section>
+        {{- end }}
+        {{- if not (.Param "hideMeta") }}
+        <footer class="entry-footer">
+          {{- partial "post_meta.html" . -}}
+        </footer>
+        {{- end }}
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+      </article>
+      {{- end }}  */}}
+      
+    {{- end}}
+</div>

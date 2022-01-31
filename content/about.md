@@ -1,5 +1,5 @@
 ---
-title: "Über Clemens"
+title: ""
 date: 2021-09-17T13:42:24+02:00
 weight: 1
 # aliases: ["/first"]
@@ -18,7 +18,7 @@ disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowPostTags: false
@@ -33,3 +33,9 @@ cover:
 #     Text: "" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
+
+Geboren 1986 in Villach, Studium in Graz, längere Aufenthalte am Balkan und in Südostasien. Lebt und arbeitet derzeit in Bristol (GB). Vereinzelte Veröffentlichungen in den [Lichtungen]({{< ref "/heimatverdichtung/halbinsel" >}}), Printausgaben des [Kärntner Bildungswerkes]({{< ref "/reisebilder_langtexte/vonhiernachdort" >}}) sowie Teilnahme an Schreibwettbewerben. 
+
+Die hier versammelten Erzählungen bewegen sich im Spannungsfeld zwischen Konstante und Veränderung und setzen sich mit Themen wie Wahrnehmungsverschiebung, Vorstellungsraum und Grenzübertretung sowie Identitätskonstruktion und Beziehungsspiel auseinander. Einige Texte sind schon über 10 Jahre alt (Fermate), andere erst vor Kurzem entstanden (Gesichter) – alle eint die Freude am Erzählen. 
+
+kontakt: clemens.hofer17@gmail.com

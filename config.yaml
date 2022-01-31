@@ -1,6 +1,6 @@
 baseURL: "https://el-uhu.github.io/clemenshofer-website-source/"
 title: Clemens Hofer
-paginate: 4
+paginate: 7
 theme: PaperMod
 publishDir: docs
 
@@ -17,25 +17,25 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Clemens Hofers  Schriften
-    description: "ExampleSite description"
+    title: Clemens Hofers Schriften
+    description: ""
     keywords: [Blog, Portfolio, PaperMod]
-    author: Me
+    author: Clemens Hofer
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
-    DateFormat: "January 2, 2006"
+    DateFormat: "02.01.2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
-    ShowReadingTime: false
+    ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: false
-    hidemeta: false
+    comments: true
+    hidemeta: true
     hideSummary: false
     showtoc: false
     tocopen: false
@@ -57,17 +57,19 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Texte
+        title:  " "
         subtitle: ""
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
+        imageTitle: " "
         buttons:
             - name: Reisebilder
               url: tags/reisebilder
-            - name: Gesichter
-              url: tags/gesichter
+              imageUrl: img/Dreysine.png
+            - name: Heimatverdichtung
+              url: tags/heimatverdichtung
+              imageUrl: img/Hand-with-Tanne.png
 
     # home-info mode
     homeInfoParams:
@@ -121,9 +123,9 @@ menu:
           name: Reisebilder
           url: /tags/reisebilder
           weight: 30
-        - identifier: Gesichter
-          name: Gesichter
-          url: /tags/gesichter
+        - identifier: Heimatverdichtung
+          name: Heimatverdichtung
+          url: /tags/Heimatverdichtung
           weight: 40
 
 

@@ -1,0 +1,37 @@
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<div class="breadcrumbs">
+  {{- $url := replace .Parent.Permalink (printf "%s" .Site.BaseURL) "" }}
+  {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+
+  <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+  {{- $scratch := newScratch }}
+  {{- range $index, $element := split $lang_url "/" }}
+
+  {{- $scratch.Add "path" (printf "%s/" $element )}}
+  {{- $bc_pg := $.Site.GetPage ($scratch.Get "path") -}}
+
+  {{- if (and ($bc_pg) (gt (len . ) 0))}}
+  {{- print "&nbsp;»&nbsp;" | safeHTML -}}<a href="{{ $bc_pg.Permalink }}">{{ $bc_pg.Name }}</a>
+  {{- end }}
+
+  {{- end -}}
+</div>
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« Zurück zu </span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">Nächste Seite »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
