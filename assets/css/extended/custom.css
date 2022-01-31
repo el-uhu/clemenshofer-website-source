@@ -3,3 +3,13 @@
 body {
     font-family: 'Vollkorn', serif;
 }
+
+.first-entry {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 320px;
+    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+}

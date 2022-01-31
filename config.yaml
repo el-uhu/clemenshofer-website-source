@@ -66,10 +66,10 @@ params:
         buttons:
             - name: Reisebilder
               url: tags/reisebilder
-              imageUrl: img/Dreysine.png
+              imageUrl: img/Dreysine2.png
             - name: Heimatverdichtung
               url: tags/heimatverdichtung
-              imageUrl: img/Hand-with-Tanne.png
+              imageUrl: img/Hand-with-Tanne2.png
 
     # home-info mode
     homeInfoParams:
