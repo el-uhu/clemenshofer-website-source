@@ -38,4 +38,4 @@ Geboren 1986 in Villach, Studium in Graz, längere Aufenthalte am Balkan und in 
 
 Die hier versammelten Erzählungen bewegen sich im Spannungsfeld zwischen Konstante und Veränderung und setzen sich mit Themen wie Wahrnehmungsverschiebung, Vorstellungsraum und Grenzübertretung sowie Identitätskonstruktion und Beziehungsspiel auseinander. Einige Texte sind schon über 10 Jahre alt (Fermate), andere erst vor Kurzem entstanden (Gesichter) – alle eint die Freude am Erzählen. 
 
-kontakt: clemens.hofer17@gmail.com
+kontakt: hoferclemens@protonmail.com
