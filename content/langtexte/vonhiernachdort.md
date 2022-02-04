@@ -55,3 +55,5 @@ Und ich, was bin ich? Ein Sklaventreiber vom Stadtrand, nahe sowohl den schönen
 
 
 > 1. Platz "wortreich" (KBW), 2015
+
+> Zurück zum [Bilderbuch]({{< ref "/reisebilder" >}})

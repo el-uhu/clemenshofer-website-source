@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Clemens Hofer</title>
-    <link>https://el-uhu.github.io/clemenshofer-website-source/tags/</link>
+    <link>https://clemenshofer.at/tags/</link>
     <description>Recent content in Tags on Clemens Hofer</description>
     <image>
-      <url>https://el-uhu.github.io/clemenshofer-website-source/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://el-uhu.github.io/clemenshofer-website-source/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://clemenshofer.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://clemenshofer.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://el-uhu.github.io/clemenshofer-website-source/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://clemenshofer.at/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heimatverdichtung</title>
-      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/heimatverdichtung/</link>
+      <link>https://clemenshofer.at/tags/heimatverdichtung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/heimatverdichtung/</guid>
+      <guid>https://clemenshofer.at/tags/heimatverdichtung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reisebilder</title>
-      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/reisebilder/</link>
+      <link>https://clemenshofer.at/tags/reisebilder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/reisebilder/</guid>
+      <guid>https://clemenshofer.at/tags/reisebilder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reisebilder Lang</title>
-      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/reisebilder-lang/</link>
+      <link>https://clemenshofer.at/tags/reisebilder-lang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/reisebilder-lang/</guid>
+      <guid>https://clemenshofer.at/tags/reisebilder-lang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veröffentlicht</title>
-      <link>https://el-uhu.github.io/clemenshofer-website-source/tags/ver%C3%B6ffentlicht/</link>
+      <link>https://clemenshofer.at/tags/ver%C3%B6ffentlicht/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://el-uhu.github.io/clemenshofer-website-source/tags/ver%C3%B6ffentlicht/</guid>
+      <guid>https://clemenshofer.at/tags/ver%C3%B6ffentlicht/</guid>
       <description></description>
     </item>
     
