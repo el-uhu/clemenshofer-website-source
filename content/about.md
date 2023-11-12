@@ -34,7 +34,7 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-Geboren 1986 in Villach, Studium in Graz, längere Aufenthalte am Balkan, in Südostasien und in England. Lebt und arbeitet derzeit in Graz. Vereinzelte Veröffentlichungen in den [Lichtungen]({{< ref "/heimatverdichtung/halbinsel" >}}), Printausgaben des [Kärntner Bildungswerkes]({{< ref "/langtexte/vonhiernachdort" >}}) sowie Teilnahme an Schreibwettbewerben. 
+Geboren 1986 in Villach, Studium in Graz, längere Aufenthalte am Balkan, in Südostasien und in England. Lebt und arbeitet derzeit in Graz. Vereinzelte Veröffentlichungen in den [Lichtungen]({{< ref "/heimatverdichtung/halbinsel" >}}), Printausgaben des [Kärntner Bildungswerkes]({{< ref "/langtexte/vonhiernachdort" >}}) sowie Teilnahme an [Schreibwettbewerben{{< ref "/heimatverdichtung/ofenbank" >}}). 
 
 Die hier versammelten Erzählungen bewegen sich im Spannungsfeld zwischen Konstante und Veränderung und setzen sich mit Themen wie Wahrnehmungsverschiebung, Vorstellungsraum und Grenzübertretung sowie Identitätskonstruktion und Beziehungsspiel auseinander. Einige Texte sind schon über 10 Jahre alt (Fermate), andere erst vor Kurzem entstanden (Phantomschmerz) – alle eint die Freude am Erzählen. 
 
