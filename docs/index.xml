@@ -8,15 +8,16 @@
       <url>https://clemenshofer.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://clemenshofer.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://clemenshofer.at/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://clemenshofer.at/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://clemenshofer.at/about/</link>
       <pubDate>Fri, 17 Sep 2021 13:42:24 +0200</pubDate>
       
       <guid>https://clemenshofer.at/about/</guid>
-      <description>Geboren 1986 in Villach, Studium in Graz, längere Aufenthalte am Balkan und in Südostasien. Lebt und arbeitet derzeit in Bristol (GB). Vereinzelte Veröffentlichungen in den Lichtungen, Printausgaben des Kärntner Bildungswerkes sowie Teilnahme an Schreibwettbewerben.
-Die hier versammelten Erzählungen bewegen sich im Spannungsfeld zwischen Konstante und Veränderung und setzen sich mit Themen wie Wahrnehmungsverschiebung, Vorstellungsraum und Grenzübertretung sowie Identitätskonstruktion und Beziehungsspiel auseinander. Einige Texte sind schon über 10 Jahre alt (Fermate), andere erst vor Kurzem entstanden (Gesichter) – alle eint die Freude am Erzählen.</description>
+      <description>Geboren 1986 in Villach, Studium in Graz, längere Aufenthalte am Balkan, in Südostasien und in England. Lebt und arbeitet derzeit in Graz. Vereinzelte Veröffentlichungen in den Lichtungen, Printausgaben des Kärntner Bildungswerkes sowie Teilnahme an Schreibwettbewerben.
+Die hier versammelten Erzählungen bewegen sich im Spannungsfeld zwischen Konstante und Veränderung und setzen sich mit Themen wie Wahrnehmungsverschiebung, Vorstellungsraum und Grenzübertretung sowie Identitätskonstruktion und Beziehungsspiel auseinander. Einige Texte sind schon über 10 Jahre alt (Fermate), andere erst vor Kurzem entstanden (Phantomschmerz) – alle eint die Freude am Erzählen.</description>
     </item>
     
     <item>
@@ -43,7 +44,7 @@ Die hier versammelten Erzählungen bewegen sich im Spannungsfeld zwischen Konsta
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://clemenshofer.at/heimatverdichtung/ofenbank/</guid>
-      <description>Es sei ja damals, sagt er und richtet sich mühsam ächzend auf, alles ganz anders gewesen als heute, man könne es sich ja gar nicht mehr vorstellen, aber er erinnere sich noch ganz genau, meint er und lehnt sich an die dunkelgrün glänzenden Kacheln des Ofens. Aber das sei ja auch normal, weil die Veränderungen meistens so schleichend kämen, dass man es kaum bemerke, und wenn es dann einmal doch laut klescht, wenn es einmal Schlag auf Schlag geht, dann rede niemand darüber, dann hänge das zwar alles in der Luft wie hier in der Stube der Tabakrauch, aber darüber sprechen, naja, das wollten dann auch wieder die Wenigsten.</description>
+      <description>Es sei ja damals, sagt er und richtet sich mühsam ächzend auf, alles ganz anders gewesen als heute, man könne es sich ja gar nicht mehr vorstellen, aber er erinnere sich noch ganz genau, meint er und lehnt sich an die dunkelgrün glänzenden Kacheln des Ofens. Aber das sei ja auch normal, weil die Veränderungen meistens so schleichend kämen, dass man es kaum bemerke, und wenn es dann einmal doch laut klescht, wenn es einmal Schlag auf Schlag geht, dann rede niemand darüber, dann hänge das zwar alles in der Luft wie hier in der Stube der Rauch, aber darüber sprechen, naja, das wollten dann auch wieder die Wenigsten.</description>
     </item>
     
     <item>
@@ -102,6 +103,15 @@ Noch vor einigen Tagen hoffte ich in der Früh, wenn ich die Haustür hinter mir
     </item>
     
     <item>
+      <title>Phantomschmerz</title>
+      <link>https://clemenshofer.at/langtexte/phantomschmerz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://clemenshofer.at/langtexte/phantomschmerz/</guid>
+      <description>Am Parkplatz vor dem verwaisten Einkaufszentrum brechen Sprösslinge durch den Asphalt und Risse durchziehen das milchig-trübe Plexiglas der Unterstände, in denen früher die Einkaufswägen standen und sich jetzt vertrocknetes Laub in den Ecken sammelt. Manchmal stocken deine müden Schritte und du verharrst auf den Zehenspitzen, unendlich angetrieben, aber wie festgeklebt, eingefroren und trotzdem wie zum Sprung bereit – geschürzte Lippen bewegen sich dann, als würden sie angestrengt trainieren. Du scheinst unbewusst zu zögern, wie ich, wenn ich ein Zündholz zum Brennen bringen will und einen Augenblick damit auf der Reibfläche verharre.</description>
+    </item>
+    
+    <item>
       <title>Bild 4</title>
       <link>https://clemenshofer.at/reisebilder/bild4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,8 +139,8 @@ Im Dorf ist es ruhig und im großen Feuer glühen noch die letzten Holzreste. Se
       <description>Protokoll vom 17.4.2017
 Wohnhaus Sonnenfeld/Tageswerkstätte
 Anwesend:
- Gerhard Moser (Projektleitung) Sybille Rothmann (Finanzkoordination, Teamführung) Thomas Plabutschnig (Zivildiener)  Entschuldigt:
- Schwester S. Rosa     Thema Bemerkungen Erledigungsauftrag     Tagesaktuell:     Impfplan aktualisieren bis KW 18 (SR)     Wichtig !!! Aschenbecher im Windfang regelmäßig ausleeren!!! Ich habe keine Lust, jeden Tag Tschickstummel vom Boden aufheben !!1! (TP)     Feuerlöscher und Rauchmelder diese Woche kontrollieren (SR)     KlientInnenbezogen:     Bitte Dekubituspositionen beachten, vor allem bei Patienten in Trakt B (SR)     Nachmittagsprogramm und Ausflüge: wir brauchen wirklich dringend eine gute Freizeitgestaltung, die Leute müssen ordentlich beschäftigt werden!</description>
+Gerhard Moser (Projektleitung) Sybille Rothmann (Finanzkoordination, Teamführung) Thomas Plabutschnig (Zivildiener) Entschuldigt:
+Schwester S. Rosa Thema Bemerkungen Erledigungsauftrag Tagesaktuell: Impfplan aktualisieren bis KW 18 (SR) Wichtig !!! Aschenbecher im Windfang regelmäßig ausleeren!!! Ich habe keine Lust, jeden Tag Tschickstummel vom Boden aufheben !!1! (TP) Feuerlöscher und Rauchmelder diese Woche kontrollieren (SR) KlientInnenbezogen: Bitte Dekubituspositionen beachten, vor allem bei Patienten in Trakt B (SR) Nachmittagsprogramm und Ausflüge: wir brauchen wirklich dringend eine gute Freizeitgestaltung, die Leute müssen ordentlich beschäftigt werden!</description>
     </item>
     
     <item>

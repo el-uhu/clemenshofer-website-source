@@ -8,7 +8,8 @@
       <url>https://clemenshofer.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://clemenshofer.at/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://clemenshofer.at/tags/reisebilder-lang/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://clemenshofer.at/tags/reisebilder-lang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fußnote</title>
       <link>https://clemenshofer.at/langtexte/fussnote/</link>
@@ -35,6 +36,15 @@
       <guid>https://clemenshofer.at/langtexte/bananenplantagen/</guid>
       <description>Nebel, Nebel, Nebel. Er scheint uns zu ersticken, zu umschlingen und aufzufressen – wie ein Ungeheuer, dass sich über die Stadt schiebt und ganz langsam aber beständig der Welt die Farben und den Menschen das Lächeln aussaugt, so dass nur vage Schemen zurückbleiben: graue oder höchstens pastellfarbene Figuren, die sich durch die feuchtkalten Straßen schieben.
 Noch vor einigen Tagen hoffte ich in der Früh, wenn ich die Haustür hinter mir schloss und mich umdrehte, dass der Himmel ausnahmsweise blau wäre, gar nicht unbedingt wolkenlos, aber zumindest so klar, dass man wenigstens wieder das Gefühl bekäme, irgendwo würde die Sonne scheinen.</description>
+    </item>
+    
+    <item>
+      <title>Phantomschmerz</title>
+      <link>https://clemenshofer.at/langtexte/phantomschmerz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://clemenshofer.at/langtexte/phantomschmerz/</guid>
+      <description>Am Parkplatz vor dem verwaisten Einkaufszentrum brechen Sprösslinge durch den Asphalt und Risse durchziehen das milchig-trübe Plexiglas der Unterstände, in denen früher die Einkaufswägen standen und sich jetzt vertrocknetes Laub in den Ecken sammelt. Manchmal stocken deine müden Schritte und du verharrst auf den Zehenspitzen, unendlich angetrieben, aber wie festgeklebt, eingefroren und trotzdem wie zum Sprung bereit – geschürzte Lippen bewegen sich dann, als würden sie angestrengt trainieren. Du scheinst unbewusst zu zögern, wie ich, wenn ich ein Zündholz zum Brennen bringen will und einen Augenblick damit auf der Reibfläche verharre.</description>
     </item>
     
     <item>
